@@ -1,0 +1,12 @@
+2022-12-15 13:43:49.204 [main] INFO  com.unicomer.PruebaTecnicaApplication - Starting PruebaTecnicaApplication using Java 17.0.5 on GT-00000299 with PID 468 (C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\github\Artifact\PruebaTecnica-1.0.jar started by ejhegar in C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\github\Artifact)
+2022-12-15 13:43:49.212 [main] DEBUG com.unicomer.PruebaTecnicaApplication - Running with Spring Boot v2.7.6, Spring v5.3.24
+2022-12-15 13:43:49.215 [main] INFO  com.unicomer.PruebaTecnicaApplication - No active profile set, falling back to 1 default profile: "default"
+2022-12-15 13:44:03.350 [main] INFO  com.unicomer.PruebaTecnicaApplication - Started PruebaTecnicaApplication in 15.638 seconds (JVM running for 16.789)
+2022-12-15 13:45:38.605 [http-nio-8080-exec-2] DEBUG com.unicomer.service.CustomerService - Find all Customers.
+2022-12-15 13:46:36.373 [http-nio-8080-exec-3] DEBUG com.unicomer.service.CustomerService - Find all Customers.
+2022-12-15 13:46:58.653 [http-nio-8080-exec-4] DEBUG com.unicomer.service.CustomerService - Find all Customers.
+2022-12-15 13:48:22.952 [http-nio-8080-exec-6] DEBUG com.unicomer.service.CustomerService - Find customer by id: 1
+2022-12-15 13:48:22.998 [http-nio-8080-exec-6] DEBUG com.unicomer.service.CustomerService - Updating customer Customer(id=1, customerId=219684654, firstName=Jhener 03, lastName=Garcia Diaz, birthday=January 5, 1993, gender=Male, cellPhone=59448648, homePhone=59448648, homeAddress=Ciudad de Guatemala, profession=Software Developer, income=75K)
+2022-12-15 13:48:57.680 [http-nio-8080-exec-8] DEBUG com.unicomer.service.CustomerService - Find all Customers.
+2022-12-15 13:49:03.154 [http-nio-8080-exec-9] DEBUG com.unicomer.service.CustomerService - Find all Customers.
+2022-12-15 13:49:06.190 [http-nio-8080-exec-10] DEBUG com.unicomer.service.CustomerService - Find customer by id: 2

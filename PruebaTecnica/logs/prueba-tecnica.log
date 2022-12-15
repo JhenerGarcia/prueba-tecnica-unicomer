@@ -1,0 +1,67 @@
+2022-12-15 11:21:24.864 [main] INFO  com.unicomer.PruebaTecnicaApplication - Starting PruebaTecnicaApplication using Java 17.0.5 with PID 35768 (C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica\bin\main started by ejhegar in C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica)
+2022-12-15 11:21:24.868 [main] DEBUG com.unicomer.PruebaTecnicaApplication - Running with Spring Boot v3.0.0, Spring v6.0.2
+2022-12-15 11:21:24.870 [main] INFO  com.unicomer.PruebaTecnicaApplication - No active profile set, falling back to 1 default profile: "default"
+2022-12-15 11:21:33.291 [main] INFO  com.unicomer.PruebaTecnicaApplication - Started PruebaTecnicaApplication in 9.45 seconds (process running for 11.03)
+2022-12-15 11:21:58.749 [http-nio-8080-exec-3] DEBUG com.unicomer.service.CustomerService - Find all Customers.
+2022-12-15 11:22:18.704 [http-nio-8080-exec-4] DEBUG com.unicomer.service.CustomerService - Creating customer Customer(id=null, customerId=219684654, firstName=Jhener 2, lastName=Garcia 2, birthday=January 5, 1993, gender=Male, cellPhone=59448648, homePhone=59448648, homeAddress=Ciudad de Guatemala, profession=Software Developer, income=75K)
+2022-12-15 11:22:21.902 [http-nio-8080-exec-5] DEBUG com.unicomer.service.CustomerService - Find all Customers.
+2022-12-15 11:22:30.020 [http-nio-8080-exec-6] DEBUG com.unicomer.service.CustomerService - Find all Customers.
+2022-12-15 11:45:20.708 [main] INFO  com.unicomer.PruebaTecnicaApplication - Starting PruebaTecnicaApplication using Java 17.0.5 with PID 17644 (C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica\bin\main started by ejhegar in C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica)
+2022-12-15 11:45:20.712 [main] DEBUG com.unicomer.PruebaTecnicaApplication - Running with Spring Boot v3.0.0, Spring v6.0.2
+2022-12-15 11:45:20.713 [main] INFO  com.unicomer.PruebaTecnicaApplication - No active profile set, falling back to 1 default profile: "default"
+2022-12-15 11:45:28.728 [main] INFO  com.unicomer.PruebaTecnicaApplication - Started PruebaTecnicaApplication in 9.112 seconds (process running for 11.045)
+2022-12-15 11:51:07.633 [main] INFO  com.unicomer.PruebaTecnicaApplication - Starting PruebaTecnicaApplication using Java 17.0.5 with PID 37652 (C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica\bin\main started by ejhegar in C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica)
+2022-12-15 11:51:07.639 [main] DEBUG com.unicomer.PruebaTecnicaApplication - Running with Spring Boot v3.0.0, Spring v6.0.2
+2022-12-15 11:51:07.642 [main] INFO  com.unicomer.PruebaTecnicaApplication - No active profile set, falling back to 1 default profile: "default"
+2022-12-15 11:51:15.080 [main] INFO  com.unicomer.PruebaTecnicaApplication - Started PruebaTecnicaApplication in 8.549 seconds (process running for 10.289)
+2022-12-15 11:54:20.986 [main] INFO  com.unicomer.PruebaTecnicaApplication - Starting PruebaTecnicaApplication using Java 17.0.5 with PID 3844 (C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica\bin\main started by ejhegar in C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica)
+2022-12-15 11:54:20.992 [main] DEBUG com.unicomer.PruebaTecnicaApplication - Running with Spring Boot v3.0.0, Spring v6.0.2
+2022-12-15 11:54:20.993 [main] INFO  com.unicomer.PruebaTecnicaApplication - No active profile set, falling back to 1 default profile: "default"
+2022-12-15 11:54:29.885 [main] INFO  com.unicomer.PruebaTecnicaApplication - Started PruebaTecnicaApplication in 10.027 seconds (process running for 11.494)
+2022-12-15 11:55:33.647 [main] INFO  com.unicomer.PruebaTecnicaApplication - Starting PruebaTecnicaApplication using Java 17.0.5 with PID 23372 (C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica\bin\main started by ejhegar in C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica)
+2022-12-15 11:55:33.652 [main] DEBUG com.unicomer.PruebaTecnicaApplication - Running with Spring Boot v3.0.0, Spring v6.0.2
+2022-12-15 11:55:33.653 [main] INFO  com.unicomer.PruebaTecnicaApplication - No active profile set, falling back to 1 default profile: "default"
+2022-12-15 11:55:40.969 [main] INFO  com.unicomer.PruebaTecnicaApplication - Started PruebaTecnicaApplication in 8.417 seconds (process running for 10.218)
+2022-12-15 11:57:12.265 [main] INFO  com.unicomer.PruebaTecnicaApplication - Starting PruebaTecnicaApplication using Java 17.0.5 with PID 37264 (C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica\bin\main started by ejhegar in C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica)
+2022-12-15 11:57:12.269 [main] DEBUG com.unicomer.PruebaTecnicaApplication - Running with Spring Boot v3.0.0, Spring v6.0.2
+2022-12-15 11:57:12.270 [main] INFO  com.unicomer.PruebaTecnicaApplication - No active profile set, falling back to 1 default profile: "default"
+2022-12-15 11:57:20.506 [main] INFO  com.unicomer.PruebaTecnicaApplication - Started PruebaTecnicaApplication in 9.794 seconds (process running for 11.879)
+2022-12-15 12:02:59.165 [main] INFO  com.unicomer.PruebaTecnicaApplication - Starting PruebaTecnicaApplication using Java 17.0.5 with PID 32964 (C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica\bin\main started by ejhegar in C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica)
+2022-12-15 12:02:59.170 [main] DEBUG com.unicomer.PruebaTecnicaApplication - Running with Spring Boot v3.0.0, Spring v6.0.2
+2022-12-15 12:02:59.171 [main] INFO  com.unicomer.PruebaTecnicaApplication - No active profile set, falling back to 1 default profile: "default"
+2022-12-15 12:04:07.126 [main] INFO  com.unicomer.PruebaTecnicaApplication - Starting PruebaTecnicaApplication using Java 17.0.5 with PID 19224 (C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica\bin\main started by ejhegar in C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica)
+2022-12-15 12:04:07.131 [main] DEBUG com.unicomer.PruebaTecnicaApplication - Running with Spring Boot v3.0.0, Spring v6.0.2
+2022-12-15 12:04:07.133 [main] INFO  com.unicomer.PruebaTecnicaApplication - No active profile set, falling back to 1 default profile: "default"
+2022-12-15 12:08:57.945 [main] INFO  com.unicomer.PruebaTecnicaApplication - Starting PruebaTecnicaApplication using Java 17.0.5 with PID 4236 (C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica\bin\main started by ejhegar in C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica)
+2022-12-15 12:08:57.950 [main] DEBUG com.unicomer.PruebaTecnicaApplication - Running with Spring Boot v3.0.0, Spring v6.0.2
+2022-12-15 12:08:57.951 [main] INFO  com.unicomer.PruebaTecnicaApplication - No active profile set, falling back to 1 default profile: "default"
+2022-12-15 12:11:18.022 [main] INFO  com.unicomer.PruebaTecnicaApplication - Starting PruebaTecnicaApplication using Java 17.0.5 with PID 11412 (C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica\bin\main started by ejhegar in C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica)
+2022-12-15 12:11:18.027 [main] DEBUG com.unicomer.PruebaTecnicaApplication - Running with Spring Boot v3.0.0, Spring v6.0.2
+2022-12-15 12:11:18.030 [main] INFO  com.unicomer.PruebaTecnicaApplication - No active profile set, falling back to 1 default profile: "default"
+2022-12-15 12:11:25.313 [main] INFO  com.unicomer.PruebaTecnicaApplication - Started PruebaTecnicaApplication in 8.349 seconds (process running for 9.993)
+2022-12-15 12:16:20.723 [main] INFO  com.unicomer.PruebaTecnicaApplication - Starting PruebaTecnicaApplication using Java 17.0.5 with PID 36304 (C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica\bin\main started by ejhegar in C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica)
+2022-12-15 12:16:20.729 [main] DEBUG com.unicomer.PruebaTecnicaApplication - Running with Spring Boot v3.0.0, Spring v6.0.2
+2022-12-15 12:16:20.731 [main] INFO  com.unicomer.PruebaTecnicaApplication - No active profile set, falling back to 1 default profile: "default"
+2022-12-15 12:16:29.343 [main] INFO  com.unicomer.PruebaTecnicaApplication - Started PruebaTecnicaApplication in 9.924 seconds (process running for 11.831)
+2022-12-15 12:17:46.424 [main] INFO  com.unicomer.PruebaTecnicaApplication - Starting PruebaTecnicaApplication using Java 17.0.5 with PID 3588 (C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica\bin\main started by ejhegar in C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica)
+2022-12-15 12:17:46.428 [main] DEBUG com.unicomer.PruebaTecnicaApplication - Running with Spring Boot v3.0.0, Spring v6.0.2
+2022-12-15 12:17:46.430 [main] INFO  com.unicomer.PruebaTecnicaApplication - No active profile set, falling back to 1 default profile: "default"
+2022-12-15 12:17:54.591 [main] INFO  com.unicomer.PruebaTecnicaApplication - Started PruebaTecnicaApplication in 9.648 seconds (process running for 11.991)
+2022-12-15 12:23:47.397 [main] INFO  com.unicomer.PruebaTecnicaApplication - Starting PruebaTecnicaApplication using Java 17.0.5 with PID 11136 (C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica\bin\main started by ejhegar in C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica)
+2022-12-15 12:23:47.402 [main] DEBUG com.unicomer.PruebaTecnicaApplication - Running with Spring Boot v3.0.0, Spring v6.0.2
+2022-12-15 12:23:47.404 [main] INFO  com.unicomer.PruebaTecnicaApplication - No active profile set, falling back to 1 default profile: "default"
+2022-12-15 12:23:55.907 [main] INFO  com.unicomer.PruebaTecnicaApplication - Started PruebaTecnicaApplication in 9.858 seconds (process running for 11.858)
+2022-12-15 13:11:08.528 [main] INFO  com.unicomer.PruebaTecnicaApplication - Starting PruebaTecnicaApplication using Java 17.0.5 on GT-00000299 with PID 34796 (C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica\bin\main started by ejhegar in C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica)
+2022-12-15 13:11:08.532 [main] DEBUG com.unicomer.PruebaTecnicaApplication - Running with Spring Boot v2.7.6, Spring v5.3.24
+2022-12-15 13:11:08.533 [main] INFO  com.unicomer.PruebaTecnicaApplication - No active profile set, falling back to 1 default profile: "default"
+2022-12-15 13:11:16.341 [main] INFO  com.unicomer.PruebaTecnicaApplication - Started PruebaTecnicaApplication in 8.757 seconds (JVM running for 10.343)
+2022-12-15 13:12:38.465 [http-nio-8080-exec-5] DEBUG com.unicomer.service.CustomerService - Find all Customers.
+2022-12-15 13:26:46.535 [http-nio-8080-exec-4] DEBUG com.unicomer.service.CustomerService - Find all Customers.
+2022-12-15 13:34:44.712 [main] INFO  com.unicomer.PruebaTecnicaApplication - Starting PruebaTecnicaApplication using Java 17.0.5 on GT-00000299 with PID 21696 (C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica\bin\main started by ejhegar in C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\workspace\PruebaTecnica)
+2022-12-15 13:34:44.717 [main] DEBUG com.unicomer.PruebaTecnicaApplication - Running with Spring Boot v2.7.6, Spring v5.3.24
+2022-12-15 13:34:44.718 [main] INFO  com.unicomer.PruebaTecnicaApplication - No active profile set, falling back to 1 default profile: "default"
+2022-12-15 13:34:52.298 [main] INFO  com.unicomer.PruebaTecnicaApplication - Started PruebaTecnicaApplication in 8.47 seconds (JVM running for 10.045)
+2022-12-15 13:38:36.851 [Test worker] INFO  com.unicomer.PruebaTecnicaApplicationTests - Starting PruebaTecnicaApplicationTests using Java 11.0.17 on GT-00000299 with PID 15344 (started by ejhegar in C:\Users\EJHEGAR\OneDrive - Ericsson\Desarrollos\grupo-unicomer\github\PruebaTecnica)
+2022-12-15 13:38:36.854 [Test worker] DEBUG com.unicomer.PruebaTecnicaApplicationTests - Running with Spring Boot v2.7.6, Spring v5.3.24
+2022-12-15 13:38:36.855 [Test worker] INFO  com.unicomer.PruebaTecnicaApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2022-12-15 13:38:51.746 [Test worker] INFO  com.unicomer.PruebaTecnicaApplicationTests - Started PruebaTecnicaApplicationTests in 16.182 seconds (JVM running for 22.075)

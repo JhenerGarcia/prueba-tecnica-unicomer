@@ -1,0 +1,8 @@
+server:
+   port: 8080
+logging:
+   config: file:./config/logback-spring.xml
+spring:
+   h2:
+      console:
+         enabled: true
